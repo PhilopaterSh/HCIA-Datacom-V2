@@ -9,14 +9,6 @@
 
 #### 6.1.1 Classification of Dynamic Routing Protocols
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 226: Why Are Dynamic Routing Protocols Used?
-> - Slide 227: Classification of Dynamic Routing Protocols (by AS and by Algorithm)
-> - Slide 228: Distance-Vector Routing Protocol Mechanics ("Routing by Rumor")
-> - Slide 229: Link-State Routing Protocol, LSA Flooding
-> - Slide 230: Link-State Routing Protocol, LSDB Creation
-> - Slide 231: Link-State Routing Protocol, SPF Calculation
-> - Slide 232: Link-State Routing Protocol, Routing Table Generation
-> - Slide 233: Summary of Link-State Routing Protocol Operation
 
 ##### 1. Why Dynamic Routing Protocols Are Essential
 > **V2 source pages:** need for dynamic routing, p. 451; protocol classification, pp. 452-453; link-state flooding and LSDB, pp. 454-458.
@@ -71,15 +63,6 @@ flowchart LR
 > **Book Slide References (Parsed via MarkItDown):**
 > - V2 Unit 10: OSPF concepts and scenarios, pp. 459-467
 > - V2 Unit 10: OSPF packets, p. 464
-> - Slide 234: Introduction to OSPF (RFC 2328 vs RFC 2740)
-> - Slide 235: OSPF Application on Campus Networks
-> - Slide 236: Basic OSPF Concepts, Area
-> - Slide 237: Basic OSPF Concepts, Router ID
-> - Slide 238: Basic OSPF Concepts, Cost Value & Accumulated Cost
-> - Slide 239: 5 Types of OSPF Packets
-> - Slide 240: Entries in the Neighbor Table (display ospf peer)
-> - Slide 241: Entries in the LSDB Table (display ospf lsdb)
-> - Slide 242: Entries in the OSPF Routing Table (display ospf routing)
 
 ##### 1. Protocol Specifications & Versions
 - **OSPFv2 (RFC 2328):** Designed specifically for IPv4. Encapsulates directly in IP packets (**IP Protocol Number 89**; no TCP or UDP transport layer overhead).
@@ -184,12 +167,6 @@ All 5 OSPF packets share a common 24-byte base header:
 > - V2 Unit 10: OSPF packet exchange and adjacency, pp. 469-474
 > - V2 Unit 10: OSPF network types, pp. 475-478
 > - V2 Unit 10: areas and multi-area operation, pp. 479-483
-> - Slide 244: Neighbor Relationship vs Adjacency
-> - Slide 245: Adjacency Establishment Process (4 Steps)
-> - Slide 246: Step 1, Hello Exchange & 2-Way State
-> - Slide 247: Steps 2 & 3, ExStart Master/Slave & Exchange DBDs
-> - Slide 248: Step 4, Loading LSR/LSU/LSAck & Full State
-> - Slide 249: Detailed Review of display ospf peer Command Output
 
 ##### 1. Neighbor Relationship vs. Adjacency
 - **Neighbor Relationship:** Two routers exchange Hello packets and confirm bidirectional communication (**2-Way state**).
@@ -273,15 +250,6 @@ sequenceDiagram
 
 #### 6.2.2 OSPF Network Types
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 250: OSPF Network Types Overview
-> - Slide 251: Network Types, P2P vs BMA
-> - Slide 252: Network Types, NBMA vs P2MP
-> - Slide 253: Background of DR and BDR (Adjacency Explosion Problem)
-> - Slide 254: DR and BDR Working Principles
-> - Slide 255: Single-Area Scalability Limitations
-> - Slide 256: Multi-Area OSPF Architecture
-> - Slide 257: Types of OSPF Routers (IR, BR, ABR, ASBR)
-> - Slide 258: Typical Enterprise Networking Scenarios
 
 ##### 1. Comparison of 4 OSPF Network Types
 
@@ -353,8 +321,6 @@ flowchart TD
 > **Book Slide References (Parsed via MarkItDown):**
 > - V2 Unit 10: configuration commands, pp. 485-486
 > - V2 Unit 10: configuration example and verification, pp. 487-491
-> - Slide 260: Basic OSPF Configuration Commands (ospf, area, network)
-> - Slide 261: Advanced Configuration Commands (ospf cost, bandwidth-reference, ospf dr-priority)
 
 ##### Core CLI Syntax
 ```bash
@@ -407,13 +373,6 @@ $$\text{Wildcard Mask} = 255.255.255.255 - \text{Subnet Mask}$$
 
 #### 6.3.2 OSPF Configuration Example
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 262: Configuration Topology Description
-> - Slide 263: Step 1, Configuring Device Interfaces
-> - Slide 264: Step 2, Configuring OSPF on R1
-> - Slide 265: Step 2, Configuring OSPF on R2 (ABR) & R3
-> - Slide 266: Step 3, Verification (display ospf peer brief)
-> - Slide 267: Step 3, Verification (display ip routing-table & ping -a)
-> - Slide 268: Checkpoint Quiz
 
 ##### 1. Lab Topology & Addressing Plan
 
@@ -517,8 +476,6 @@ On Huawei VRP, exam questions strictly distinguish between commands that inspect
 ---
 
 
-| QBank Question | Topic | Answer |
-| :--- | :--- | :---: |
 
 ---
 

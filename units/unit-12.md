@@ -3,13 +3,6 @@
 > 💡 Unit 12 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 11 | Unit 13 →
 
 
-> **Source slides (physical PDF page anchors verified against the local 985-page training material):**
-> - Slide 3: ACL Overview and Slide 4: Basic Principles of ACL
-> - Slide 6: ACL Classification
-> - Slide 8: Wildcard Mask Matching Rules
-> - Slide 11: Matching Order (config vs auto)
-> - Slide 16: Basic ACL Configuration & Traffic Filter Application
-> - Slide 20: Advanced ACL Configuration Commands
 
 > **V2 source anchors:** ACL purpose and rule model, p. 567; ACL categories and number ranges, p. 574; matching and negative-match semantics, pp. 576-580; basic/advanced ACL configuration, pp. 584-588.
 
@@ -148,8 +141,6 @@ Checking IP 192.168.1.1 (ODD):
 ---
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

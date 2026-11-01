@@ -3,14 +3,6 @@
 > 💡 Unit 23 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 22
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: Typical Campus Networking Solution Cover
-> - Slide 5: Campus Network Definition, Architecture & Zones
-> - Slide 7: 3-Tier Layer Responsibilities (Access, Aggregation, Core)
-> - Slide 9: Small, Midsize & Large Campus Design Topologies
-> - Slide 14: Four Core Stages of Campus Engineering Project Lifecycle
-> - Slide 15: Detailed Design Workstreams (VLAN, IP, Routing, WLAN, Reliability)
-> - Slide 34: Commissioning Tests, Acceptance & Cutover Execution
 
 ---
 
@@ -74,7 +66,6 @@ flowchart LR
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

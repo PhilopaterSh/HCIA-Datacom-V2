@@ -3,14 +3,6 @@
 > 💡 Unit 17 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 16 | Unit 18 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: WLAN Technology Basics Cover & Objectives
-> - Slide 5: Electromagnetic Wave Spectrum & Radio Frequency Bands (2.4 GHz & 5 GHz)
-> - Slide 11: 2.4 GHz Non-overlapping Channels (1, 6, 11) & 5 GHz Channel Allocation
-> - Slide 14: IEEE 802.11 Standards Family Progression (802.11a/b/g/n/ac/ax/be)
-> - Slide 24: Wireless Transmission Concepts: MIMO, Spatial Streams & Modulation
-> - Slide 48: Wi-Fi 7 Multi-RU & High-Order Modulation
-> - Slide 49: Wi-Fi 7 Multi-Link Operation (MLO) Architecture
 
 ---
 
@@ -49,10 +41,8 @@ V2 introduces Wi-Fi 7 as a delta beyond the 802.11b/g/n/ac/ax comparison already
 
 ---
 
----
 
 
-| :--- | :--- | :---: |
 
 ---
 

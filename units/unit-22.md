@@ -3,15 +3,6 @@
 > 💡 Unit 22 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 21 | Unit 23 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: Network Troubleshooting Overview
-> - Slide 6: Structured 5-Step Troubleshooting Process
-> - Slide 14: Core Diagnostic & Maintenance Command Families
-> - Slide 21: Case 1: IP Address Acquisition Failure
-> - Slide 27: Case 2: Intra-VLAN Communication Failure
-> - Slide 34: Case 3: Network Ping Reachability Failure
-> - Slide 42: Case 4: Fit AP Onboarding Failure on WAC
-> - Slide 50: Case 5: Wireless Station (STA) Access Failure
 
 ---
 
@@ -68,7 +59,6 @@ flowchart TD
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

@@ -13,16 +13,6 @@ ightarrow$ `5. Normal Operation (Run State)`.
 >   `[AC] capwap source interface Vlanif 100` (or `capwap source ip-address <ip>`). Omitting this command prevents the WAC from listening on UDP 5246/5247!
 > - **VAP Profile Binding Flexibility (V2 Exam Trap):** A Virtual AP (VAP) profile can be bound to an **AP group** (for batch deployment across all APs in a zone) OR directly to an **individual AP** for site-specific customization.
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: WLAN Fundamentals and Configuration Cover
-> - Slide 5: Five Core Phases of AP Onboarding Lifecycle
-> - Slide 8: Phase 1: AP Address Allocation & DHCP Option 43 Discovery
-> - Slide 13: Phase 2 & 3: CAPWAP Tunnel Setup, DTLS Handshake & AP Authentication
-> - Slide 17: Phase 4 & 5: Version Check, Configuration Download & Run State
-> - Slide 19: STA Access Process (Scanning, Association, Authentication & DHCP)
-> - Slide 22: Huawei WAC Configuration Profile Hierarchy (VAP, SSID, Security)
-> - Slide 37: Complete WAC + Fit AP CLI Configuration Example
-> - Slide 47: Verification & Diagnostic Commands: display ap all, display station all
 
 ---
 
@@ -125,10 +115,8 @@ The V2 STA access process separates **scanning**, **link authentication**, and *
 
 ---
 
----
 
 
-| :--- | :--- | :---: |
 
 ---
 

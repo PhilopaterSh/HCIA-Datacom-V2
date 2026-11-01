@@ -3,15 +3,6 @@
 > 💡 Unit 18 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 17 | Unit 19 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: WLAN Networking Architecture Overview
-> - Slide 5: Basic WLAN Concepts (BSS, ESS, BSSID, SSID, VAP)
-> - Slide 10: Fat AP (Autonomous) Networking Architecture & Limitations
-> - Slide 12: WAC + Fit AP (Centralized) Networking Architecture
-> - Slide 14: CAPWAP Protocol Mechanics (RFC 5415/5416, Ports 5246/5247 & DTLS)
-> - Slide 21: Leader AP (Small-Scale Distributed AC) Architecture
-> - Slide 26: Direct Forwarding Mode vs. Tunnel Forwarding Mode Flow Analysis
-> - Slide 32: WAC Inline Deployment vs. Bypass Deployment
 
 ---
 
@@ -91,7 +82,6 @@ Do not confuse Leader AP with a normal Fat AP: the Fat-mode leader has a managem
 
 ---
 
----
 
 ### 17.3 CAPWAP Tunnel Protocol
 
@@ -125,7 +115,6 @@ stateDiagram-v2
 
 ---
 
----
 
 ### 17.4 Forwarding Modes: Direct vs Tunnel
 
@@ -152,10 +141,8 @@ flowchart TD
 
 ---
 
----
 
 
-| :--- | :--- | :---: |
 
 ---
 

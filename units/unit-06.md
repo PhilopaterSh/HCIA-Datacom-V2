@@ -193,8 +193,6 @@ MSTP (IEEE 802.1s) extends the spanning-tree model by maintaining multiple indep
 MSTP is therefore not simply “RSTP with another name”: its V2 delta is the VLAN-to-instance mapping and independent per-instance topology. Region membership and interoperable configuration details depend on matching region parameters; this note records the source-backed conceptual objective and does not claim a completed configuration lab. The source also identifies compatibility with STP/RSTP and fast convergence. MSTP overview, p. 295
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

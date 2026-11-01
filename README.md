@@ -4,7 +4,7 @@ Open study notes and a documented preparation method for the **Huawei HCIA-Datac
 
 ## What you will find here
 
-1. **The Method** - the complete, reusable preparation system: quiz-first drilling, exact-set grading, a validated question-bank build pipeline, error-memory export/import, sibling-family comparison, a per-question exhibit sweep, and an exam-day sheet. Every step was field-tested in a 10-day sprint.
+1. **The Method** - the complete, reusable preparation system: quiz-first drilling, exact-set grading, a validated question-bank build pipeline, error-memory export/import, sibling-family comparison, a per-question exhibit sweep, and an exam-day sheet. Every step was field-tested end to end.
 2. **23 course units** - open study notes covering the full official HCIA-Datacom V2.0 blueprint: data communication basics, reference models, VRP, Ethernet switching, VLANs, STP, link aggregation, IP addressing and DHCP, routing and inter-VLAN routing, OSPF, IPv6, ACLs, AAA, network services, NAT, data center fabrics, WLAN (3 units), device management and automation, troubleshooting, and the campus solution. Each unit carries its CLI configurations and verification commands.
 
 ## What this is not
@@ -17,11 +17,18 @@ Because the method is the part that transfers. Anyone can memorize a bank; the s
 
 ## Status
 
-| | |
+| Item | Detail |
 | --- | --- |
 | Exam | H12-811_V2.0-ENU |
 | Result | 717/1000 - Pass (first sitting) |
 | Certificate | Valid through October 2029 |
-| Study window | 10 days (2026-10-22 → 2026-10-31) |
 
-*Built with a custom offline exam engine following the [Digilians Quiz Web Standard](https://github.com/PhilopaterSh).*
+## About the author
+
+I work in penetration testing, and networking is the foundation everything else stands on. You can find me on [LinkedIn](https://www.linkedin.com/in/philopater-shenouda/) and [GitHub](https://github.com/PhilopaterSh).
+
+## Support this project
+
+If these notes saved you time, consider supporting the work. It keeps projects like this open and maintained.
+
+[![Buy Me A Coffee](https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png)](https://www.buymeacoffee.com/PhilopaterSh)

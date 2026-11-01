@@ -3,17 +3,6 @@
 > 💡 Unit 13 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 12 | Unit 14 →
 
 
-> **Source slides (physical PDF page anchors verified against the local 985-page training material):**
-> - Slide 2: AAA Overview & Concept
-> - Slide 3: Authentication Definition
-> - Slide 4: Authorization Definition
-> - Slide 5: Accounting Definition
-> - Slide 6: AAA Architecture (NAS & Server)
-> - Slide 8: RADIUS Protocol Principles
-> - Slide 9: HWTACACS Protocol Principles
-> - Slide 10: Comparison: RADIUS vs HWTACACS
-> - Slide 13: Local User Configuration & Privilege Levels (0-15)
-> - Slide 14: Telnet/SSH VTY Configuration with AAA
 
 ---
 
@@ -202,8 +191,6 @@ In basic deployments, devices often use simple shared password authentication un
 ---
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

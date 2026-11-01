@@ -3,15 +3,6 @@
 > 💡 Unit 20 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 19 | Unit 21 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: Network Device Management Overview
-> - Slide 5: Traditional Network Management Architecture & Five Functional Areas (FCAPS)
-> - Slide 13: SNMP Protocol Architecture & MIB Hierarchy
-> - Slide 16: SNMPv1, SNMPv2c, and SNMPv3 Security Models
-> - Slide 24: NETCONF Protocol Architecture, SSH Layer & RPC Operations
-> - Slide 28: NETCONF Datastores (running, candidate, startup)
-> - Slide 35: RESTCONF Protocol, HTTP Method Mapping & XML/JSON Formats
-> - Slide 43: Huawei iMaster NCE Autonomous Network Architecture
 
 ---
 
@@ -94,7 +85,6 @@ RESTCONF provides a RESTful interface over HTTPS using standard HTTP verbs:
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

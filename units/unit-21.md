@@ -3,13 +3,6 @@
 > 💡 Unit 21 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 20 | Unit 22 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: Network Programming and Automation Cover
-> - Slide 5: Traditional O&M Challenges vs. Automated Efficiency
-> - Slide 10: Programming Language Classification & Why Python for Networking
-> - Slide 17: Python Basic Syntax, Data Types, Lists & Dictionaries
-> - Slide 25: Paramiko Library Architecture & SSHv2 Client APIs
-> - Slide 34: Automating Huawei Device Configuration via Paramiko Script
 
 ---
 
@@ -93,7 +86,6 @@ def backup_huawei_device(ip, username, password):
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

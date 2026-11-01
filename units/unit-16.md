@@ -3,17 +3,6 @@
 > 💡 Unit 16 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 15 | Unit 17 →
 
 
-> **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
-> - Slide 1: Data Center Network Basics Cover
-> - Slide 6: Data Center Definition & Facilities Infrastructure
-> - Slide 11: Data Center Development History & Single to Multi-DC Evolution
-> - Slide 17: General-Purpose Computing vs. Intelligent Computing
-> - Slide 24: Spine-Leaf Architecture & East-West Traffic Optimization
-> - Slide 27: VXLAN Overlay Architecture & 24-Bit VNI
-> - Slide 28: EVPN Control Plane Signaling for VXLAN
-> - Slide 33: Intelligent Computing DCN Architecture (AI Fabric)
-> - Slide 36: Lossless Ethernet Technologies: PFC & ECN
-> - Slide 39: RDMA and RoCE Protocol Architecture
 
 ---
 
@@ -88,7 +77,6 @@ Distributed AI deep learning models require synchronous parameter exchanges (All
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

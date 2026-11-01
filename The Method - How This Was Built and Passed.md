@@ -15,7 +15,6 @@ Per-domain rates: Data Comm Network Basics 50 Â· Ethernet Technology Basics 59 Â
 8. **Exam-day sheet:** one collapsible card inside the study app holding the corrected keys, the caveats, the fill-in facts, and the exam tactics. The morning review needs nothing outside the app.
 
 
-| --- | --- | --- | --- |
 
 
 ## Family Quick Rules (the 31 sibling questions in 14 families)

@@ -13,12 +13,6 @@
 > - Eth-Trunk configuration commands and examples, pp. 326-331
 >
 > **V1.0 comparative references (not a substitute for the V2-specific behavior above):**
-> - Slide 10: Increasing Link Bandwidth and Slide 11: Eth-Trunk
-> - Slide 12: Basic Concepts of Eth-Trunk; Slide 14: Manual Mode
-> - Slide 18: LACP Active-Interface Selection through Slide 26: Active Link Election
-> - Slide 27: Load Balancing and Slide 28: Load-Balancing Mode
-> - Slide 33: Configuration Commands (1) through Slide 35: Configuration Commands (3)
-> - Slide 40: Introduction to iStack and CSS through Slide 44: Recommended Architecture
 
 ### 11.1 Core Problems Solved by Eth-Trunk
 In traditional enterprise access and aggregation layers, running multiple physical cables between two switches triggers two major problems:
@@ -175,13 +169,10 @@ The described benefits are simplified management, improved resilience when a mem
 > 💡 Study distinction
 > iStack/CSS virtualize devices into one logical device; Eth-Trunk aggregates physical links. They can be combined: an Eth-Trunk can connect to a stacked logical switch, and inter-device links can provide uplink bandwidth and redundancy.
 
-**Source:** Slide 40: Introduction to iStack and CSS, Slide 41: Advantages of iStack and CSS, Slide 42: Application (1), Slide 43: Application (2), and Slide 44: Recommended Architecture.
 
 ---
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

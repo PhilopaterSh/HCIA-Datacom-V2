@@ -17,13 +17,11 @@ Inserted directly between the Source MAC address and the EtherType/Length field 
 
 ```text
 +-------------------+-------------------+-------------------+-------------------+
-|  DMAC (6 Bytes)   |  SMAC (6 Bytes)   | 802.1Q Tag (4 B)  | EtherType (2 B)   | Payload...
 +-------------------+-------------------+-------------------+-------------------+
                                                   │
                 ┌─────────────────────────────────┴─────────────────────────────────┐
                 ▼                                                                   ▼
        +--------------------+--------------------+--------------------+--------------------+
-       |   TPID (16 bits)   |    PRI (3 bits)    |    CFI (1 bit)     |    VID (12 bits)   |
        +--------------------+--------------------+--------------------+--------------------+
        |   Value: 0x8100    |  Values: 0 to 7    |  Values: 0 or 1    | Values: 1 to 4094  |
        |  Identifies 802.1Q |  Layer 2 QoS / CoS |  Drop Precedence   | (0 & 4095 reserved)|
@@ -126,8 +124,6 @@ For the common interface/PVID method, an untagged ingress frame is assigned to t
 The access and trunk rules above follow the V2 frame-processing examples; hybrid egress is configurable and should not be generalized into a single fixed tag rule. See Access interface ingress and egress processing, p. 206, Trunk interface ingress and egress processing, p. 208, and Hybrid interface ingress and egress processing, p. 211. This adds the V2 classification and decision flow without reopening the already mastered 802.1Q basics and port-type gate.
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

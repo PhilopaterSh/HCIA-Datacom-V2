@@ -194,7 +194,6 @@ NAT Server syntax and parameters, p. 727 V2 configuration example, p. 730
 > V2 source pages for NAT Server: mapping behavior, p. 725, session processing, p. 726, configuration options, p. 727. The exact system-view example is linked above.
 
 
-| :--- | :--- | :---: |
 
 ---
 

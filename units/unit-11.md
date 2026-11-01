@@ -9,7 +9,6 @@
 >   - Step 2: Insert `FFFE` in the middle: `00e0:fcFF:FEef:0fec`.
 >   - Step 3: Invert the 7th bit of the first byte (`00` in binary = `00000000` $\rightarrow$ invert bit 7 $\rightarrow$ `00000010` = `02`). Resulting Interface ID = `02e0:fcff:feef:0fec`. Distractor answers forget to invert the 7th bit or insert `FFFF` instead of `FFFE`.
 
-> **Source slides (physical PDF page anchors verified against the local 985-page training material):**
 > - V2 Unit 11: IPv6 benefits and address space, pp. 502-503
 > - V2 Unit 11: address format and address types, pp. 504-519
 > - V2 Unit 11: packet header and extension headers, pp. 521-527
@@ -17,16 +16,6 @@
 > - V2 Unit 11: NDP, pp. 534-541
 > - V2 Unit 11: SLAAC/DHCPv6 modes and RA flags, pp. 543-550
 > - V2 Unit 11: IPv6 configuration examples, pp. 552-557
-> - Slide 2: IPv6 Overview & Address Exhaustion Motivation
-> - Slide 4: IPv6 Address Format & Representation Rules
-> - Slide 7: IPv6 Address Classifications (Unicast, Multicast, Anycast)
-> - Slide 10: Global Unicast, Unique Local, and Link-Local Addresses
-> - Slide 13: IPv6 Packet Header Architecture (40-Byte Fixed)
-> - Slide 16: IPv6 Extension Headers & Next Header Chain
-> - Slide 19: ICMPv6 Protocol & Neighbor Discovery Protocol (NDP)
-> - Slide 22: Address Resolution using NS and NA Messages
-> - Slide 25: Stateless Address Autoconfiguration (SLAAC) & DAD
-> - Slide 29: Huawei VRP IPv6 Basic CLI Configuration
 
 ---
 
@@ -199,7 +188,6 @@ These are the commands shown in V2's small-network example. The course also stat
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 

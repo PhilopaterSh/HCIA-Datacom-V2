@@ -125,8 +125,6 @@ Huawei switches maintain two fundamental classes of MAC address entries in the C
 ---
 
 
-| QBank Question | Topic & Concept | Answer |
-| :--- | :--- | :---: |
 
 ---
 

@@ -9,10 +9,6 @@
 > **Book Slide References (Parsed via MarkItDown):**
 > - V2 Unit 8: network-layer protocol scope, p. 339
 > - V2 Unit 8: IP functions and versions, p. 340
-> - Slide 124: Chapter Cover & Overview
-> - Slide 128: Network Layer Protocols Architecture
-> - Slide 129: Internet Protocol Definition
-> - Slide 130: Data Encapsulation & PDU Hierarchy
 
 The Network Layer (Layer 3 in the OSI model, Internet Layer in the TCP/IP suite) provides **connectionless, best-effort packet delivery** across interconnected networks:
 - **Connectionless:** No end-to-end handshake is negotiated at Layer 3 prior to forwarding data. Each packet is treated independently.
@@ -28,11 +24,6 @@ The Network Layer (Layer 3 in the OSI model, Internet Layer in the TCP/IP suite)
 > **Book Slide References (Parsed via MarkItDown):**
 > - V2 Unit 8: IPv4 header fields, p. 341
 > - V2 Unit 8: fragmentation fields, pp. 343-345
-> - Slide 131: IPv4 Packet Format Diagram
-> - Slide 132: IPv4 Header Fields Specifications
-> - Slide 133: Packet Fragmentation (Identification, Flags, Offset)
-> - Slide 134: Time to Live (TTL) & Loop Prevention
-> - Slide 135: Protocol Field Demultiplexing
 
 An IPv4 packet consists of an IP Header followed by User Data (Payload). The header has a minimum fixed size of **20 bytes** and can expand up to **60 bytes** if optional fields are included:
 
@@ -42,14 +33,11 @@ An IPv4 packet consists of an IP Header followed by User Data (Payload). The hea
 
 | Field Name | Bit Width | Functional Purpose & Technical Mechanics | Exam Nuance / Vendor Trap |
 | :--- | :--- | :--- | :--- |
-| **Version** | 4 bits | Identifies IP version (`0100` = IPv4, `0110` = IPv6). | Slide 341: Fixed binary value. |
 | **Header Length (IHL)** | 4 bits | Indicates IP header length in **32-bit (4-byte) words**. Minimum value = `5` ($5 \times 4 = 20$ bytes). Maximum = `15` ($15 \times 4 = 60$ bytes). | Multiplied by 4 bytes. If IHL is 5, no options exist. |
 | **Type of Service (ToS)** | 8 bits | Used for Quality of Service (QoS) and Differentiated Services (DiffServ/DSCP). | Takes effect when QoS traffic classification is implemented. |
 | **Total Length** | 16 bits | Total size of entire IP packet (Header + Payload) in bytes. Maximum = 65,535 bytes. | Minimum total length = 20 bytes (header only, zero data). |
 | **Identification** | 16 bits | Unique sequence assigned by source to group fragments originating from the same packet. | Used by receiving host to assemble matching fragments. |
 | **Flags** | 3 bits | Controls packet fragmentation behavior:<br>- Bit 0: **Reserved** (Must always be `0`).<br>- Bit 1: **DF (Don't Fragment)**: `1` = Do not fragment; `0` = Fragmentation allowed.<br>- Bit 2: **MF (More Fragments)**: `1` = More fragments follow; `0` = Last fragment (or unfragmented). | If packet exceeds link MTU (1500B) and DF=1, router drops packet and sends ICMP Type 3 Code 4. |
-| **Fragment Offset** | 13 bits | Specifies relative position of fragment payload within the original unfragmented packet, measured in **units of 8 bytes (64 bits)**. | Slide 344: Multiplied by 8 to obtain byte start offset. |
-| **Time to Live (TTL)** | 8 bits | Maximum router hop count. Decremented by 1 at each Layer 3 forwarding hop. When TTL reaches 0, router drops packet and transmits ICMP Time Exceeded (Type 11 Code 0) to source. | Slide 344: Eliminates infinite loops on network. |
 | **Protocol** | 8 bits | Demultiplexing identifier indicating which upper-layer protocol handles the stripped payload. | Common values: `1`=ICMP, `2`=IGMP, `6`=TCP, `17`=UDP, `89`=OSPF. |
 | **Header Checksum** | 16 bits | Verifies integrity of the **IP Header only** (excludes payload). Recalculated at every router hop because TTL decrements! | Layer 4 TCP/UDP have their own end-to-end checksums. |
 | **Source IP** | 32 bits | IPv4 address of originating node interface. | Unicast address. |
@@ -70,12 +58,7 @@ An IPv4 packet consists of an IP Header followed by User Data (Payload). The hea
 ### 4.3 IPv4 Address Classification & Special Address Space
 > **V2 source pages:** address concepts and format, pp. 347-350; address classes, pp. 353-355; public/private ranges, pp. 357-360.
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 137: What Is an IP Address?
-> - Slide 138: IP Address Notation & Decimal/Binary Conversion
-> - Slide 139: IP Address Structure (Network ID vs Host ID)
-> - Slide 140: Layer 2 vs Layer 3 Addressing & Gateways
 > - Slide 141-145: Classful Addressing Hierarchy (Classes A to E)
-> - Slide 146: Private IP Address Ranges (RFC 1918)
 > - Slide 147-148: Special IPv4 Addresses
 
 An IPv4 address is a 32-bit binary number represented in **dotted decimal notation** ($4 \times 8$-bit octets separated by dots, range `0.0.0.0` to `255.255.255.255`). It is an attribute of a **network interface**, not the device itself.
@@ -124,10 +107,7 @@ To mitigate IPv4 address exhaustion, RFC 1918 reserved non-routable address bloc
 ### 4.4 Subnetting Calculations, VLSM & Bit Borrowing Mechanics
 > **V2 source pages:** subnetting rationale and process, pp. 362-366; VLSM allocation exercise, pp. 367-369; address-planning suggestions, p. 370.
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 151: The Need for Subnetting
-> - Slide 152: Subnetting Principles & Bit Borrowing
 > - Slide 153-157: Practice: Computing Subnets
-> - Slide 158: Variable Length Subnet Masking (VLSM)
 
 Subnetting divides a large network into smaller subnets by **borrowing bits from the Host portion** and adding them to the Network portion:
 
@@ -176,11 +156,6 @@ Given IP `192.168.10.138/27`:
 ### 4.5 ICMP Architecture & Diagnostic Protocols
 > **V2 source pages:** ICMP format and purpose, pp. 372-373; Echo diagnostics, p. 374; ICMP error reports and tracert, pp. 375-376.
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 159: What Is ICMP?
-> - Slide 160: ICMP Message Format
-> - Slide 161: ICMP Error Reporting & Querying
-> - Slide 162: Ping Application Operation
-> - Slide 163: Tracert Application Operation
 
 ICMP (Internet Control Message Protocol) is encapsulated directly inside IPv4 packets (**Protocol field = `1`**). It functions as an error reporting and diagnostic tool:
 
@@ -216,9 +191,6 @@ ICMP (Internet Control Message Protocol) is encapsulated directly inside IPv4 pa
 
 ### 4.6 Huawei VRP IPv4 Interface Configuration & Verification
 > **Book Slide References (Parsed via MarkItDown):**
-> - Slide 164: Interface Configuration Commands
-> - Slide 165: Configuration Case & Topology
-> - Slide 166: Verification Commands (display)
 
 #### CLI Configuration Syntax
 

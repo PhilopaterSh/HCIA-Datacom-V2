@@ -12,22 +12,11 @@
 >   - **Ack:** Server acknowledges and confirms the lease bindings.
 > - **Telnet VTY Privilege vs. Global Service Trap:** If a specific user cannot execute configuration commands, check user privilege level (needs Level 2). If only one specific user cannot log in, the user account is locked/disabled/deleted; if the service were disabled globally, *all* users would be blocked.
 > 
-> **Source slides (physical PDF page anchors verified against the local 985-page training material):**
 > - V2 Unit 8: DHCP purpose and benefits, pp. 379-380
 > - V2 Unit 8: DHCP address acquisition/DORA, pp. 381-382
 > - V2 Unit 8: DHCP relay purpose and operation, pp. 383-384
 > - V2 Unit 8: lease renewal, p. 385
 > - V2 Unit 8: server pools and DHCP relay configuration, pp. 387-389
-> - Slide 2: Network Services and Applications Overview
-> - Slide 4: File Transfer Protocol (FTP) Architecture
-> - Slide 6: FTP Active vs Passive Modes & Binary Mode
-> - Slide 9: Telnet Protocol Principles & VTY Login
-> - Slide 12: DHCP Concepts & Address Allocation Modes
-> - Slide 14: DHCP DORA Four-Step Packet Exchange
-> - Slide 17: DHCP Lease Renewal Mechanics (T1 & T2 Timers)
-> - Slide 20: DHCP Server Configuration (Interface Pool vs Global Pool)
-> - Slide 23: DNS Principles & Query Resolution Workflow
-> - Slide 26: NTP Network Time Synchronization
 
 ---
 
@@ -250,7 +239,6 @@ The Domain Name System (DNS) is an application layer protocol running over **UDP
 ---
 
 
-| :--- | :--- | :---: |
 
 ---
 
