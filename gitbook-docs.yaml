@@ -1,5 +1,12 @@
-sites:
-  - slug: hcia-datacom-study-companion
-    title: HCIA-Datacom Study Companion
-    description: Open study notes and a documented preparation method for the Huawei HCIA-Datacom V2.0 certification (717/1000, first sitting).
-    default: true
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+version: 1
+site:
+  title: HCIA-Datacom Study Companion
+  structure:
+    - type: space
+      key: hcia-datacom-study-companion
+      title: HCIA-Datacom Study Companion
+      path: ./
+      default: true
+      content:
+        directory: ./
