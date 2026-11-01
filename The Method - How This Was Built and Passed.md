@@ -13,7 +13,7 @@ The two weakest domains map exactly to the sprint's never-completed quiz batches
 
 1. **Quiz-first per category:** answer the whole batch before any teaching; score honestly; log every miss with the trap (not the letter) in the tracker.
 2. **Strict set grading from day one:** a multi-select question grades the FULL correct set; a partial pick is a miss. Train the habit in practice, because the exam grades the same way.
-3. **Generated web app with a validated pipeline:** raw transcript → generator with an audited answer-key map → validated bank file → offline quiz app (the DQS-1 custom-engine pattern, see `web/hcia-v2-review/README.md`). Every curated line is mechanically validated; the build fails on transcription drift.
+3. **Generated web app with a validated pipeline:** raw transcript → generator with an audited answer-key map → validated bank file → offline quiz app (a custom-engine build). Every curated line is mechanically validated; the build fails on transcription drift.
 4. **Error memory with export/import:** every wrong pick reaches a persistent ever-wrong store keyed by stable ids; export/sync keeps the vault tracker mirrored. Reading modes must never inflate it (the reveal-all sweep once inflated it to 131 entries before the passive-mode fix).
 7. **Answer-key audit against the official material:** the full key audited against the V2.0 training material (135/138 at audit time), concept-term coverage for every paraphrased question, and corrections recorded with evidence.
 8. **Exam-day sheet:** one collapsible card inside the study app holding the corrected keys, the caveats, the fill-in facts, and the exam tactics. The morning review needs nothing outside the app.
@@ -40,5 +40,5 @@ Data Comm Network Basics (50%) and Ethernet Technology Basics (59%) were the un-
 ## References
 
 - Question-bank entry points: HCIA-Datacom Question Bank MOC and Huawei HCIA Datacom.
-- Study app and pipeline: `web/hcia-v2-review/` (README carries the replication checklist) and `web/quiz-template/README.md` (DQS-1 standard).
+- Study app and pipeline: the private project repo carries the offline quiz app and its step-by-step replication checklist.
 
