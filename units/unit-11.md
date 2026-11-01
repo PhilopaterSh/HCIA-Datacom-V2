@@ -1,6 +1,6 @@
 # 11. IPv6 Address and Configuration
 
-> 💡 Unit 11 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 10 | Unit 12 →
+> 💡 Unit 11 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 10 | Unit 12 →
 
 
 

@@ -1,6 +1,6 @@
 # 08. IP Address and Configuration (IPv4 & DHCP)
 
-> 💡 Unit 08 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 07 | Unit 09 →
+> 💡 Unit 08 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 07 | Unit 09 →
 
 
 ---

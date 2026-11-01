@@ -1,6 +1,6 @@
 # 22. Network Troubleshooting (Methodology, Diagnostic CLI & 5 Case Studies)
 
-> 💡 Unit 22 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 21 | Unit 23 →
+> 💡 Unit 22 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 21 | Unit 23 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**

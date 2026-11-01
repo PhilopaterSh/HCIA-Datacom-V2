@@ -1,6 +1,6 @@
 # 13. AAA Fundamentals and Configuration
 
-> 💡 Unit 13 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 12 | Unit 14 →
+> 💡 Unit 13 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 12 | Unit 14 →
 
 
 > **Source slides (physical PDF page anchors verified against the local 985-page training material):**

@@ -1,6 +1,6 @@
 # 12. ACL Fundamentals and Configuration
 
-> 💡 Unit 12 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 11 | Unit 13 →
+> 💡 Unit 12 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 11 | Unit 13 →
 
 
 > **Source slides (physical PDF page anchors verified against the local 985-page training material):**

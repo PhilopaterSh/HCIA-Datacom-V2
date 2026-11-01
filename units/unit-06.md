@@ -1,6 +1,6 @@
 # 06. STP Fundamentals and Configuration
 
-> 💡 Unit 06 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 05 | Unit 07 →
+> 💡 Unit 06 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 05 | Unit 07 →
 
 
 ---

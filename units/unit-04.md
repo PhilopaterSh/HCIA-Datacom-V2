@@ -1,6 +1,6 @@
 # 04. Ethernet Switching Basics
 
-> 💡 Unit 04 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 03 | Unit 05 →
+> 💡 Unit 04 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 03 | Unit 05 →
 
 
 ---

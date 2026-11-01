@@ -1,6 +1,6 @@
 # 03. Network Device Operating Systems (YunShan OS & VRP)
 
-> 💡 Unit 03 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 02 | Unit 04 →
+> 💡 Unit 03 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 02 | Unit 04 →
 
 
 > **Book Slide References (Parsed via MarkItDown):**

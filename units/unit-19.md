@@ -1,6 +1,6 @@
 # 19. WLAN Fundamentals and Configuration
 
-> 💡 Unit 19 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 18 | Unit 20 →
+> 💡 Unit 19 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 18 | Unit 20 →
 
 
  (AP Onboarding, STA Access & VRP Config)
@@ -72,7 +72,7 @@ The V2 STA access process separates **scanning**, **link authentication**, and *
 
 ```bash
 # =====================================================================
-# Step 1: DHCP Pool — Assign IP to AP and tell it the AC IP (Option 43)
+# Step 1: DHCP Pool - Assign IP to AP and tell it the AC IP (Option 43)
 # =====================================================================
 [AC] dhcp enable
 [AC] ip pool AP_POOL

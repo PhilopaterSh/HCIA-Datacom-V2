@@ -1,6 +1,6 @@
 # 07. Ethernet Link Aggregation (Eth-Trunk & LACP)
 
-> 💡 Unit 07 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 06 | Unit 08 →
+> 💡 Unit 07 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 06 | Unit 08 →
 
 
 > **V2.0 source pages (primary for the current audit):**

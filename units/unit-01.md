@@ -1,6 +1,6 @@
 # 01. Data Communication Network Basics
 
-> 💡 Unit 01 of 23 — HCIA-Datacom course. ☰ MOC | Unit 02 →
+> 💡 Unit 01 of 23 - HCIA-Datacom course. ☰ MOC | Unit 02 →
 
 
 > **Book Slide References (Parsed via MarkItDown):**

@@ -1,6 +1,6 @@
 # 05. VLAN Fundamentals and Configuration
 
-> 💡 Unit 05 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 04 | Unit 06 →
+> 💡 Unit 05 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 04 | Unit 06 →
 
 
 ---

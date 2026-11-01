@@ -1,6 +1,6 @@
 # 18. WLAN Networking Architecture (Fat/Fit AP, Leader AP & CAPWAP Tunnel)
 
-> 💡 Unit 18 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 17 | Unit 19 →
+> 💡 Unit 18 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 17 | Unit 19 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
@@ -21,7 +21,7 @@
 
 ```mermaid
 flowchart TD
-    ESS["ESS — Extended Service Set\n(Same SSID, Multiple APs, Seamless Roaming)"]
+    ESS["ESS - Extended Service Set\n(Same SSID, Multiple APs, Seamless Roaming)"]
     ESS --> BSS1["BSS 1\n(AP-1 + associated stations)"]
     ESS --> BSS2["BSS 2\n(AP-2 + associated stations)"]
     ESS --> BSS3["BSS 3\n(AP-3 + associated stations)"]
@@ -53,7 +53,7 @@ flowchart LR
         FAP --> Mgmt["Management"]
     end
 
-    subgraph FitAP["Fit AP (Centralized — Enterprise Standard)"]
+    subgraph FitAP["Fit AP (Centralized - Enterprise Standard)"]
         direction TB
         AC["Access Controller (AC)\n(Central Brain)"] --> FitRadio["Radio Policy\nConfig Push\nAuth Control"]
         FitAP1["Fit AP-1\n(Dumb Radio)"] --> AC

@@ -1,6 +1,6 @@
 # 09. IP Routing Basics & Inter-VLAN Routing
 
-> 💡 Unit 09 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 08 | Unit 10 →
+> 💡 Unit 09 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 08 | Unit 10 →
 
 
 ---

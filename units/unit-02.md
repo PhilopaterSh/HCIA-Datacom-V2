@@ -1,6 +1,6 @@
 # 02. Network Reference Models
 
-> 💡 Unit 02 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 01 | Unit 03 →
+> 💡 Unit 02 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 01 | Unit 03 →
 
 
 > **Book Slide References (Parsed via MarkItDown):**

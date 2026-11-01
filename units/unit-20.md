@@ -1,6 +1,6 @@
 # 20. Network Device Management (SNMPv3, NETCONF/YANG, RESTCONF & iMaster NCE)
 
-> 💡 Unit 20 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 19 | Unit 21 →
+> 💡 Unit 20 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 19 | Unit 21 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**

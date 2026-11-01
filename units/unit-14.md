@@ -1,6 +1,6 @@
 # 14. Network Services and Applications (SSH/STelnet, SFTP, FTP)
 
-> 💡 Unit 14 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 13 | Unit 15 →
+> 💡 Unit 14 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 13 | Unit 15 →
 
 
 >   - The VTY line command `protocol inbound all` enables all interactive terminal CLI protocols supported by VTY (**Telnet and SSH/STelnet**).

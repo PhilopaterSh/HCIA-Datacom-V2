@@ -1,6 +1,6 @@
 # 15. NAT Fundamentals and Configuration
 
-> 💡 Unit 15 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 14 | Unit 16 →
+> 💡 Unit 15 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 14 | Unit 16 →
 
 
 ---

@@ -1,6 +1,6 @@
 # 23. Typical Campus Networking Solution (Hierarchical Design, Project Lifecycle & Deployment)
 
-> 💡 Unit 23 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 22
+> 💡 Unit 23 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 22
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**

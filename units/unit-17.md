@@ -1,6 +1,6 @@
 # 17. WLAN Technology Basics (Radio Spectrum, 802.11 Standards & Wi-Fi 6/7)
 
-> 💡 Unit 17 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 16 | Unit 18 →
+> 💡 Unit 17 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 16 | Unit 18 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**

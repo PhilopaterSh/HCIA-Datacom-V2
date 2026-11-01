@@ -1,6 +1,6 @@
 # 21. Network Programming and Automation (Python & Paramiko)
 
-> 💡 Unit 21 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 20 | Unit 22 →
+> 💡 Unit 21 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 20 | Unit 22 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**

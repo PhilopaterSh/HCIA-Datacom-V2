@@ -1,6 +1,6 @@
 # 10. OSPF Fundamentals and Configuration
 
-> 💡 Unit 10 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 09 | Unit 11 →
+> 💡 Unit 10 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 09 | Unit 11 →
 
 
 ---

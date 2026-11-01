@@ -1,6 +1,6 @@
 # 16. Data Center Network Basics (Spine-Leaf, EVPN/VXLAN & Lossless Fabric)
 
-> 💡 Unit 16 of 23 — HCIA-Datacom course. ☰ MOC | ← Unit 15 | Unit 17 →
+> 💡 Unit 16 of 23 - HCIA-Datacom course. ☰ MOC | ← Unit 15 | Unit 17 →
 
 
 > **Source slides (verified against official HCIA-Datacom V2.0 Training Material):**
