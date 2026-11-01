@@ -1,6 +1,6 @@
 # HCIA-Datacom Study Companion
 
-Open study notes and a documented preparation method for the **Huawei HCIA-Datacom V2.0** certification, written and engineering-verified by [Philopater Shenouda](https://github.com/PhilopaterSh) - passed **717/1000 on the first sitting** (October 2026).
+Open study notes and a documented preparation method for the **Huawei HCIA-Datacom V2.0** certification, written and engineering-verified by [Philopater Shenouda](https://lnkd.in/p/eAKCgESZ) - passed **717/1000 on the first sitting** (October 2026).
 
 ## What you will find here
 
