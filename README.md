@@ -23,6 +23,10 @@ Because the method is the part that transfers. Anyone can memorize a bank; the s
 | Result | 717/1000 - Pass (first sitting) |
 | Certificate | Valid through October 2029 |
 
+## Score breakdown
+
+![Score breakdown by exam domain](assets/domain-scores.svg)
+
 ## About the author
 
 I work in penetration testing, and networking is the foundation everything else stands on. You can find me on [LinkedIn](https://www.linkedin.com/in/philopater-shenouda/) and [GitHub](https://github.com/PhilopaterSh).

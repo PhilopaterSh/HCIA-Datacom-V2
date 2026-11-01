@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<rect width="1600" height="900" fill="#ffffff"/>
+<text x="70" y="110" font-family="Segoe UI, Arial, sans-serif" font-size="42" font-weight="700" fill="#111418">HCIA-Datacom V2.0 Score Breakdown</text>
+<text x="70" y="158" font-family="Segoe UI, Arial, sans-serif" font-size="23" fill="#5b6670">Per-domain score rates from the official score report: H12-811_V2.0, 717/1000, first sitting, October 2026</text>
+<line x1="70" y1="192" x2="1530" y2="192" stroke="#e3e7eb" stroke-width="2"/>
+<text x="500" y="266" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Data Communication Network Basics</text>
+<rect x="530" y="236" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="236" width="450" height="44" rx="8" fill="#c7000b"/>
+<text x="998" y="267" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">50%</text>
+<text x="500" y="340" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Ethernet Technology Basics</text>
+<rect x="530" y="310" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="310" width="531" height="44" rx="8" fill="#c7000b"/>
+<text x="1079" y="341" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">59%</text>
+<text x="500" y="414" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">IP Technology Basics</text>
+<rect x="530" y="384" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="384" width="783" height="44" rx="8" fill="#c7000b"/>
+<text x="1331" y="415" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">87%</text>
+<text x="500" y="488" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Network Security and Services</text>
+<rect x="530" y="458" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="458" width="603" height="44" rx="8" fill="#c7000b"/>
+<text x="1151" y="489" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">67%</text>
+<text x="500" y="562" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Data Center Network Basics</text>
+<rect x="530" y="532" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="532" width="603" height="44" rx="8" fill="#c7000b"/>
+<text x="1151" y="563" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">67%</text>
+<text x="500" y="636" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">WLAN Technology Basics</text>
+<rect x="530" y="606" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="606" width="603" height="44" rx="8" fill="#c7000b"/>
+<text x="1151" y="637" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">67%</text>
+<text x="500" y="710" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Network O&amp;M and Troubleshooting</text>
+<rect x="530" y="680" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="680" width="756" height="44" rx="8" fill="#c7000b"/>
+<text x="1304" y="711" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">84%</text>
+<text x="500" y="784" text-anchor="end" font-family="Segoe UI, Arial, sans-serif" font-size="24" fill="#1f2933">Typical Campus Networking Solution</text>
+<rect x="530" y="754" width="900" height="44" rx="8" fill="#eef1f4"/>
+<rect x="530" y="754" width="900" height="44" rx="8" fill="#c7000b"/>
+<text x="1448" y="785" font-family="Segoe UI, Arial, sans-serif" font-size="26" font-weight="700" fill="#1f2933">100%</text>
+
+<text x="70" y="868" font-family="Segoe UI, Arial, sans-serif" font-size="19" fill="#8a949e">Each bar is the share of correctly answered items in that exam domain, as printed on the official score report.</text>
+</svg>
