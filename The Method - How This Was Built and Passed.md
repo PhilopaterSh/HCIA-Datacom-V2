@@ -4,6 +4,10 @@
 
 Per-domain rates: Data Comm Network Basics 50 · Ethernet Technology Basics 59 · IP Technology Basics 87 · Network Security and Services 67 · Data Center Network Basics 67 · WLAN Technology Basics 67 · Network O&M and Troubleshooting 84 · Typical Campus Networking Solution 100. The two weakest domains map exactly to the sprint's never-completed quiz batches (Cat 5-8) and are the first study pointers toward HCIP-Datacom.
 
+![Score breakdown by exam domain](assets/domain-scores.svg)
+
+
+
 
 ## The Method That Worked (reusable checklist)
 
