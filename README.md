@@ -25,7 +25,7 @@ Because the method is the part that transfers. Anyone can memorize a bank; the s
 
 ## Score breakdown
 
-![Score breakdown by exam domain](assets/domain-scores.svg)
+![Score breakdown by exam domain](assets/domain-scores.png)
 
 ## About the author
 

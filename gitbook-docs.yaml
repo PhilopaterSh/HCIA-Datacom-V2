@@ -6,7 +6,7 @@ site:
     - type: space
       key: hcia-datacom-study-companion
       title: HCIA-Datacom Study Companion
-      path: ./
+      path: docs
       default: true
       content:
         directory: ./

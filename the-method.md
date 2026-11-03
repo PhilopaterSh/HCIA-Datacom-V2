@@ -2,7 +2,7 @@
 
 **H12-811_V2.0-ENU taken 2026-10-31: PASSED with 717/1000** (minimum 600, 60 items, first sitting). Official certificate No. 010103901855810455291409, valid through 2029-10-30. Exam engine time was 90 minutes; the Pearson booking's "115 Minutes" was the appointment window including check-in and tutorial.
 
-![Score breakdown by exam domain](assets/domain-scores.svg)
+![Score breakdown by exam domain](assets/domain-scores.png)
 
 The two weakest domains map exactly to the sprint's never-completed quiz batches (Cat 5-8) and are the first study pointers toward HCIP-Datacom.
 

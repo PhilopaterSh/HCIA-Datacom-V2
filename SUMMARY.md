@@ -1,7 +1,7 @@
 # Table of contents
 
 - [Introduction](README.md)
-- [The Method - How This Was Built and Passed](The%20Method%20-%20How%20This%20Was%20Built%20and%20Passed.md)
+- [The Method - How This Was Built and Passed](the-method.md)
 
 ## Course Units
 
