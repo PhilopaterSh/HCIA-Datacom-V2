@@ -2,6 +2,8 @@
 
 Open study notes and a documented preparation method for the **Huawei HCIA-Datacom V2.0** certification, written and engineering-verified by [Philopater Shenouda](https://lnkd.in/p/eAKCgESZ) - passed **717/1000 on the first sitting** (October 2026).
 
+Content license: [CC BY-SA 4.0](LICENSE) - share and adapt freely with attribution, under the same license.
+
 ## What you will find here
 
 1. **The Method** - the complete, reusable preparation system: quiz-first drilling, exact-set grading, a validated question-bank build pipeline, error-memory export/import, sibling-family comparison, a per-question exhibit sweep, and an exam-day sheet. Every step was field-tested end to end.
